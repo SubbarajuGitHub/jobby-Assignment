@@ -1,0 +1,75 @@
+.header-bg {
+  background-color: #272727;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.website-logo2 {
+  height: 40px;
+}
+.home {
+  color: white;
+  list-style-type: none;
+  margin-right: 30px;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.home-jobs {
+  color: white;
+  display: flex;
+}
+.jobs {
+  color: white;
+  list-style-type: none;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.logout-button {
+  background-color: #4f46e5;
+  font-size: 14px;
+  border-color: transparent;
+  border-radius: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+}
+.home-second-div {
+  background-color: #121212;
+  padding-top: 20px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-around;
+}
+.home-lg-logo {
+  height: 600px;
+}
+.home-description {
+  color: white;
+  font-family: roboto;
+  font-size: 20px;
+}
+.home-second-first-div {
+  width: 40%;
+}
+.home-heading {
+  font-size: 60px;
+  color: white;
+  font-family: roboto;
+}
+.find-jobs-button {
+  background-color: #6366f1;
+  font-size: 14px;
+  border-color: transparent;
+  border-radius: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.link-items {
+  text-decoration: none;
+}

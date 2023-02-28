@@ -1,0 +1,86 @@
+.jobs-success-main-div {
+  display: flex;
+  background-color: #000000;
+  padding: 50px;
+}
+.jobs-success-left-div {
+  width: 25%;
+}
+.profile-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 200px;
+  width: 350px;
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+}
+.profile-name {
+  color: #6366f1;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 20px;
+}
+.profile-bio {
+  color: #2c364c;
+  font-family: roboto;
+  font-size: 14px;
+}
+.employment-heading {
+  color: white;
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-family: roboto;
+}
+.jobs-success-right-div {
+  margin-left: 50px;
+}
+.search-input-jobs {
+  background-color: transparent;
+  width: 400px;
+  padding: 8px;
+  color: white;
+}
+.user-profile-failure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.profile-failure-button {
+  background-color: #4f46e5;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 14px;
+  border-radius: 5px;
+}
+.failure-job-div {
+  margin-left: 300px;
+}
+.oops-heading {
+  color: white;
+  font-family: roboto;
+  margin-left: 100px;
+}
+.oops-description {
+  color: white;
+  font-family: roboto;
+  margin-left: 150px;
+}
+.failure-retry-button {
+  text-align: center;
+  margin-left: 80px;
+}
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

@@ -1,0 +1,48 @@
+.black-bg {
+  background-color: black;
+  min-height: 100vh;
+  padding-bottom: 50px;
+}
+.devops-heading {
+  color: white;
+}
+.second-one {
+  margin: 50px;
+  width: 80%;
+  padding-bottom: 40px;
+  margin-bottom: 20px;
+}
+.skills-unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.skills-heading {
+  color: white;
+  font-family: roboto;
+  font-size: 20px;
+}
+.company-heading {
+  color: white;
+  font-family: roboto;
+  font-size: 20px;
+}
+.company-description {
+  color: white;
+  font-family: roboto;
+  font-size: 16px;
+}
+.company-div {
+  display: flex;
+}
+.similar-jobs {
+  color: white;
+  font-family: roboto;
+  font-size: 25px;
+  margin-left: 50px;
+}
+.similar-job-unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}

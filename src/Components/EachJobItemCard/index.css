@@ -1,0 +1,94 @@
+.lists {
+  list-style-type: none;
+}
+.links {
+  text-decoration: none;
+}
+.job-div {
+  background-color: #202020;
+  margin-top: 20px;
+  padding: 25px;
+  border-radius: 15px;
+  width: 800px;
+}
+.company-logo {
+  height: 60px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.logo-container {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+.devops-heading {
+  color: white;
+  font-size: 16px;
+  font-family: roboto;
+  margin-bottom: 0px;
+}
+.star-icon {
+  color: #fbbf24;
+  height: 25px;
+  margin-right: 5px;
+}
+.title-div-rating-div {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 10px;
+  padding-top: 0px;
+}
+.rating {
+  margin-top: 0px;
+  color: white;
+}
+.location-jobtype-package-container {
+  display: flex;
+  justify-content: space-between;
+}
+.location-container {
+  display: flex;
+  align-items: center;
+}
+.jobtype-container {
+  display: flex;
+  align-items: center;
+}
+.loaction-and-jobtype-div {
+  display: flex;
+}
+.jobtype-container {
+  margin-left: 30px;
+}
+.location-icon {
+  color: white;
+}
+.employment-heading-second {
+  color: white;
+  font-size: 14px;
+  font-family: roboto;
+  margin-left: 5px;
+}
+.location-heading {
+  color: white;
+  font-size: 14px;
+  font-family: roboto;
+  margin-left: 5px;
+}
+.package-lpa {
+  color: white;
+  font-size: 14px;
+  font-family: roboto;
+  margin-left: 5px;
+  font-weight: bold;
+}
+.job-description-description {
+  color: white;
+  font-size: 16px;
+  font-family: roboto;
+}
+.job-description-heading {
+  color: white;
+  font-size: 20px;
+  font-family: roboto;
+}

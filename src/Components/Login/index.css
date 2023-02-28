@@ -1,0 +1,67 @@
+.login-main-div {
+  background-color: #121212;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-div {
+  background-color: #202020;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  border-radius: 15px;
+}
+.website-logo {
+  height: 30px;
+  margin-bottom: 20px;
+  margin-left: 100px;
+}
+.username {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 14px;
+}
+.username-input {
+  background-color: transparent;
+  border-color: #ffffff;
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  margin-bottom: 20px;
+  color: white;
+}
+.password {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 14px;
+}
+.password-input {
+  background-color: transparent;
+  border-color: #ffffff;
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  color: white;
+}
+.login-button {
+  background-color: #6366f1;
+  padding: 10px;
+  margin-top: 20px;
+  width: 300px;
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  border-color: transparent;
+  margin-bottom: 30px;
+}
+.error-messege {
+  color: #ff0b37;
+  font-family: roboto;
+  font-weight: bold;
+}
